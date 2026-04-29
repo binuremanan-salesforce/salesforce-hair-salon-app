@@ -66,3 +66,27 @@ Reports & Dashboards
 Data Modelling
 Business Process Automation
 
+## Screenshots
+
+App Home Page
+
+<img width="1351" height="546" alt="image" src="https://github.com/user-attachments/assets/7cf290bb-65b9-4f94-86bb-0b7c0d53bc8b" />
+
+Custom Objects and relationships
+
+<img width="1329" height="487" alt="image" src="https://github.com/user-attachments/assets/9d47c97b-249b-4026-a224-aba5a2cc4828" />
+
+Flow builder
+
+<img width="1331" height="505" alt="image" src="https://github.com/user-attachments/assets/c2bd3257-fbf6-4c00-8ca5-1756081bff38" />
+
+Approval Process
+
+<img width="1319" height="536" alt="image" src="https://github.com/user-attachments/assets/6509498a-4021-4adf-8cb8-eeca58d3a15a" />
+
+Reports
+
+<img width="1340" height="476" alt="image" src="https://github.com/user-attachments/assets/8cfc8175-c726-42a7-a862-9a90e2d33809" />
+
+
+
