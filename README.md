@@ -1,4 +1,4 @@
-# salesforce-hair-salon-app
+# salesforce hair salon app
 A complete Salesforce Administrator portfolio project demonstrating custom objects, flows,process builder,data and metadata security, validation rules, reports, dashboards, and approval processes.
 
 ## Overview
