@@ -88,5 +88,8 @@ Reports
 
 <img width="1340" height="476" alt="image" src="https://github.com/user-attachments/assets/8cfc8175-c726-42a7-a862-9a90e2d33809" />
 
+Dashboards
+<img width="1352" height="537" alt="image" src="https://github.com/user-attachments/assets/af7a1f4e-babb-4dd7-9768-505f3039b912" />
+
 
 
